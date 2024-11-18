@@ -70,86 +70,6 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -3.3 -2.5)
-		(end -3.3 0.15)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "862d0713-76e3-42c5-a2fd-caa87f703c77")
-	)
-	(fp_line
-		(start -3.3 -2.5)
-		(end 2.55 -2.5)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "fe6dbcea-f981-4fed-92c1-5a003d04306a")
-	)
-	(fp_line
-		(start -3.3 0.4)
-		(end -3.3 1)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "aa038a8d-4534-47ab-9090-459b4f8792a0")
-	)
-	(fp_line
-		(start -3.3 1.25)
-		(end -3.3 4.75)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "71708a75-22d2-4983-9714-aec7e299a543")
-	)
-	(fp_line
-		(start -3.3 5)
-		(end -3.3 5.6)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "ce2d928c-4834-40f6-ae4e-79c155c0a990")
-	)
-	(fp_line
-		(start -3.3 5.9)
-		(end -3.3 8.55)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "698b06b3-00b6-4270-96aa-80162c391a96")
-	)
-	(fp_line
-		(start -3.3 8.55)
-		(end 2.55 8.55)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "f2ec1ec3-8904-4b01-bd8f-064a1cf6d8d0")
-	)
-	(fp_line
-		(start 2.55 -2.5)
-		(end 2.55 8.55)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "dcccf9d7-3032-47a5-a326-58a139731726")
-	)
-	(fp_line
 		(start -3.45 -2.65)
 		(end -3.45 8.7)
 		(stroke
@@ -281,7 +201,7 @@
 		(remove_unused_layers no)
 		(uuid "20e7444e-106c-4374-a518-dec07ed01f35")
 	)
-	(model "${KIPRJMOD}/lib/grove_connector_3d.step"
+	(model "${KIPRJMOD}/../lib/grove_connector_3d.step"
 		(offset
 			(xyz 7.96 -32.75 -6.2)
 		)

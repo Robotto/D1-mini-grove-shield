@@ -386,7 +386,7 @@
 		(descr "https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf")
 		(tags "Grove-1x04")
 		(property "Reference" "I2C_1"
-			(at -87 -8.5 360)
+			(at -87 -8.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "52d63004-1a65-4e34-ace1-c6e155edd1ca")
@@ -1124,7 +1124,7 @@
 		(descr "https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf")
 		(tags "Grove-1x04")
 		(property "Reference" "I2C_2"
-			(at -87 -8.5 360)
+			(at -87 -8.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4011f13d-ccb8-41c6-989e-18c91d9e9854")
@@ -1354,7 +1354,7 @@
 		(descr "https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf")
 		(tags "Grove-1x04")
 		(property "Reference" "J1"
-			(at -87 -8.5 360)
+			(at -87 -8.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "2baaa49e-5d69-4ba8-9bba-4f552570d073")
@@ -2759,7 +2759,7 @@
 		(descr "https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf")
 		(tags "Grove-1x04")
 		(property "Reference" "J2"
-			(at -87 -8.5 360)
+			(at -87 -8.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "3827a17d-34d3-4fc9-a239-7bb3ff189088")

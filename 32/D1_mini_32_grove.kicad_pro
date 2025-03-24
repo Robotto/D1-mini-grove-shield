@@ -555,7 +555,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "D1_mini_32_grove.step",
       "svg": "",
       "vrml": ""
     },

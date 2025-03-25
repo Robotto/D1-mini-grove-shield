@@ -1,6 +1,7 @@
-8266 version looks like this:
+The boards looks like this:
 
-![3D View of board](8266/3DView.png)
+![3D View of ESP8266 Board](8266/3DView.png)
+![3D View of ESP32 Board](32/3DView.png)
 
 Kicanvas links:
 

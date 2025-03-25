@@ -282,7 +282,7 @@
 			(uuid "aba9481b-2b6d-4855-a89a-9c56663e980a")
 		)
 		(embedded_fonts no)
-		(model "/Users/robotto/Hack/D1-mini-grove-shield/lib/Vertical slide switch SS-12D00G3 High Knob 3mm SPDT v2.step"
+		(model "${KIPRJMOD}/../lib/Vertical slide switch SS-12D00G3 High Knob 3mm SPDT v2.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1897,9 +1897,10 @@
 				)
 			)
 		)
-		(property "Value" "esp32-wemos-d1-mini"
+		(property "Value" "e"
 			(at -25.75 0.75 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "422167ec-c597-4e05-9a78-94dd1f793de1")
 			(effects
 				(font
@@ -2377,16 +2378,26 @@
 			(uuid "6d3e31fe-8cc7-4dcc-9171-ebc6dc2d2884")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/kicad-esp32-wemos-d1-mini/esp32-wemos-d1-mini.step"
-			(hide yes)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical.wrl"
 			(offset
-				(xyz 137.25 42.7 -32.5)
+				(xyz -11.4 11.4 -1.6)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -0 -180 -0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical.wrl"
+			(offset
+				(xyz 14 11.4 -1.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -180 -0)
 			)
 		)
 	)

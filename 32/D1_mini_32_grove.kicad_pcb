@@ -3339,6 +3339,30 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Husk at lave flowcharts!"
+		(at 117.8 56.8 70)
+		(layer "B.SilkS")
+		(uuid "9ac957fc-dc31-4cbb-ae75-3475d43c8b82")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "HUSK AT SPISE!"
+		(at 124.5 50 0)
+		(layer "B.SilkS")
+		(uuid "b37f7c17-4721-4d12-88a7-7e2abe509eeb")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 107.175 76.25)
 		(end 101.445 70.52)

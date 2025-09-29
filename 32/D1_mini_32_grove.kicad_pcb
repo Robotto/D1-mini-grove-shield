@@ -99,7 +99,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -235,18 +234,6 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "3c310c99-ddfc-4dad-b027-38db0e9d8095")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 2.54 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d44b6ad8-dc2c-4b34-927c-3abe01230a44")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole rect
 			(at 0 0)
@@ -784,7 +771,7 @@
 				)
 			)
 		)
-		(attr through_hole)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.4892 0.32004)
 			(end -1.9304 0.5207)
@@ -1929,6 +1916,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "URL" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ecc6becd-19f1-4b9d-9505-5860dc2d0283")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)

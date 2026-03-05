@@ -2848,8 +2848,8 @@
 		(uuid "0ef57cd0-3e6b-45e9-bb20-bda91f3ce2a6")
 	)
 	(gr_line
-		(start 105.6 78.1)
-		(end 105.4 77.8)
+		(start 106.15 78.3)
+		(end 106.1 78)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -2888,8 +2888,8 @@
 		(uuid "2e837df4-8cd1-407f-9a0b-ded4befdb2bf")
 	)
 	(gr_line
-		(start 120.958777 51.086473)
-		(end 121.5 50.65)
+		(start 120.629388 51.118236)
+		(end 121.170611 50.681763)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -2908,8 +2908,8 @@
 		(uuid "5d298231-e681-4739-a9d0-2972f24ee3fd")
 	)
 	(gr_line
-		(start 104.4 77.9)
-		(end 105.6 78.1)
+		(start 104.8 77.5)
+		(end 106.15 78.3)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -2918,9 +2918,9 @@
 		(uuid "7b224ce2-2605-4949-88ce-4f7af9e1aa95")
 	)
 	(gr_arc
-		(start 120.958777 51.086471)
-		(mid 122.05 49.25)
-		(end 123.519756 47.699771)
+		(start 120.707446 50.972773)
+		(mid 121.734238 49.212379)
+		(end 123.1 47.699771)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -2929,8 +2929,8 @@
 		(uuid "805a2376-528d-4695-9fe4-99f966276273")
 	)
 	(gr_line
-		(start 105.6 78.1)
-		(end 105.3 78.3)
+		(start 106.15 78.3)
+		(end 105.8 78.3)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -2969,8 +2969,8 @@
 		(uuid "be704402-f657-49f3-9acb-e3cf93d449a1")
 	)
 	(gr_line
-		(start 120.958777 51.086473)
-		(end 120.958777 50.4)
+		(start 120.629388 51.118236)
+		(end 120.629388 50.431763)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -3183,8 +3183,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "-\n+\nD 21\nC 22"
-		(at 124.15 50.65 0)
+	(gr_text "  -\n  +\nSDA 21\nSCL 22"
+		(at 123 50.65 0)
 		(layer "F.SilkS")
 		(uuid "44996d16-47ab-45b9-bafa-b388485c995b")
 		(effects
